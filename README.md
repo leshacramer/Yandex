@@ -1,2 +1,2 @@
 # Yandex
-Test repository for Yonder
+Test repository for Yandex.Practicum
